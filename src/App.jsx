@@ -10,16 +10,16 @@ function App() {
     <>
       <div>
         <a href="https://open.spotify.com/user/wil.dgl?si=Qb8SRp5pR6yClRuZthsSVQ" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
+          <img src={viteLogo} className="logo"  alt="Vite logo" />
         </a>
         <a href="https://instagram.com/wb_recordings/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>W&B RECORDINGS</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          CONTE AQUI SEUS CLICK's {count}
         </button>
         <p>
          
